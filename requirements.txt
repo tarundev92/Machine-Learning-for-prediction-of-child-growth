@@ -37,7 +37,7 @@ matplotlib==3.0.2
 mock==2.0.0
 multiprocess==0.70.7
 networkx==2.2
-nltk==3.4
+nltk==3.4.5
 np-utils==0.5.10.0
 numpy==1.16.1
 osqp==0.5.0
